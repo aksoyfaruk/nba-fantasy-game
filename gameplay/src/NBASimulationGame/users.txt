@@ -1,0 +1,3 @@
+Emre;Goksu;goksu@gmail.com;goksu123;24;goksu;/images/Erik Spoelstra.png
+Berkay;Tonbul;berkay@hotmail.com;berkay123;44;berkay;/images/Steve Kerr.png
+Faruk;Sartik;faruk@gmail.com;faruk123;33;faruk;/images/Michael Malone.png
