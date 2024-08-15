@@ -1,0 +1,17 @@
+Team - Wins - Losses - Ties
+Cleveland Cavaliers - Wins: 5, Losses: 0, Ties: 0
+Miami Heat - Wins: 5, Losses: 0, Ties: 0
+Orlando Magic - Wins: 5, Losses: 0, Ties: 0
+Atlanta Hawks - Wins: 4, Losses: 1, Ties: 0
+Detroit Pistons - Wins: 4, Losses: 1, Ties: 0
+Chicago Bulls - Wins: 3, Losses: 2, Ties: 0
+Los Angeles Clippers - Wins: 3, Losses: 2, Ties: 0
+Phoenix Suns - Wins: 3, Losses: 2, Ties: 0
+Boston Celtics - Wins: 2, Losses: 3, Ties: 0
+Denver Nuggets - Wins: 2, Losses: 3, Ties: 0
+Golden State Warriors - Wins: 2, Losses: 3, Ties: 0
+New York Knicks - Wins: 1, Losses: 4, Ties: 0
+Dallas Mavericks - Wins: 0, Losses: 5, Ties: 0
+Houston Rockets - Wins: 0, Losses: 5, Ties: 0
+Los Angeles Lakers - Wins: 0, Losses: 3, Ties: 0
+Milwaukee Bucks - Wins: 0, Losses: 5, Ties: 0
